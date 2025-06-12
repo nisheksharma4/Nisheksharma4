@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm a **Java Developer** passionate about building efficient, scalable, and maintainable software solutions.
 
 - Currently, I am learning ORM Jpa with Hibernate, Spring Boot, Microservices, RestAPI.
+- Currently working on improving my system design skills by applying SOLID principles and writing clean, object-oriented Java code.
 
 ---
 
