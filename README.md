@@ -1,9 +1,13 @@
 # Hi there, I'm Nishek Sharma 👋
 
 Welcome to my GitHub profile! I'm a **Java Developer** passionate about building efficient, scalable, and maintainable software solutions.
+- ✅ Completed ORM JPA with Hibernate and Spring Boot development
 
-- Currently, I am learning ORM Jpa with Hibernate, Spring Boot, Microservices, RestAPI.
-- Currently working on improving my system design skills by applying SOLID principles and writing clean, object-oriented Java code.
+- 🌱 Currently learning Microservices architecture and RESTful API design
+
+- 🛠️ Practicing System Design by applying SOLID principles and writing clean, object-oriented Java code
+
+- 💡 Interested in Backend Development, Data Engineering, and building real-world projects that solve practical problems
 
 ---
 
