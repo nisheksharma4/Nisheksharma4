@@ -44,6 +44,8 @@ Welcome to my GitHub profile! I'm a **Java Developer** passionate about building
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisheksharma4&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nisheksharma4&layout=compact&theme=default)
+
 
 
 ---
