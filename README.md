@@ -1,20 +1,22 @@
 # 👋 Hi, I'm Nishek Sharma
 
 🚀 **Java Backend Developer** | Spring Boot | Hibernate | REST APIs  
-💡 Passionate about building clean, scalable, and production-ready backend systems
+💡 Passionate about **building clean, scalable, and production-ready backend systems**
 
 ---
 
 ## 🧑‍💻 Professional Summary
 
-I am a **Java Developer** focused on backend development using **Spring Boot, JPA/Hibernate**, and relational databases.  
-I enjoy designing clean APIs, following **SOLID principles**, and continuously improving system design skills.
+I am a **Java Backend Developer** specializing in **Spring Boot, JPA/Hibernate**, and **PostgreSQL**.  
+I focus on building **well-structured REST APIs** using **DTO-based layered architecture**, following **SOLID principles** and clean code practices.
 
-- ✅ Completed **ORM with JPA, Hibernate & Spring Boot**
-- 🌱 Currently learning **Microservices Architecture**
-- 🛠️ Practicing **System Design & Clean Code**
-- 🎯 Interested in **Backend Development & Data Engineering**
-
+- ✅ Strong understanding of Spring Boot, JPA & Hibernate
+- ✅ Experienced in DTO, Mapper pattern, and clean API contracts
+- ✅ Hands-on with Pagination, Sorting, Filtering using Spring Data JPA
+- 🌱 Currently learning Microservices Architecture
+- 🛠️ Practicing System Design & Backend Architecture
+- 🎯 Interested in Backend Development & Data Engineering
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -32,9 +34,42 @@ I enjoy designing clean APIs, following **SOLID principles**, and continuously i
 
 ### ⚙️ Backend & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+## 🧠 Backend Concepts I Work With
+
+- Layered Architecture (**Controller → Service → Repository → Entity**)
+- DTO & Mapper Pattern (RequestDTO / ResponseDTO)
+- Pagination, Sorting & Filtering (Spring Data JPA)
+- Global Exception Handling (`@ControllerAdvice`)
+- Custom API Response Structure
+- RESTful API Design & HTTP Status Codes
+- Entity Relationships (`@ManyToOne, @OneToMany`)
+- Input Validation using `@Valid`
+
+---
+
+## 📌 Projects & Learning Focus
+
+### 🚀 Student Management System (Spring Boot + PostgreSQL)
+- DTO-based architecture
+- Pagination with custom PageResponseDTO
+- Clean API responses using ResponseEntity
+- Global exception handling
+- Learning Microservices & API Design
+- Improving DSA for Backend Interviews
+- Exploring System Design fundamentals
+
+### 📚 Currently Learning
+- Microservices Architecture
+- API Design Best Practices
+- System Design fundamentals
+- DSA for backend interviews
 
 ---
 
@@ -46,12 +81,12 @@ I enjoy designing clean APIs, following **SOLID principles**, and continuously i
 
 ---
 
-## 📌 What I’m Working On
+## 🎯 What I’m Currently Working On
 
-- Building **Spring Boot REST APIs**
-- Learning **Microservices & API Design**
-- Improving **DSA & System Design**
-- Preparing for **Backend Developer roles**
+- Designing **clean and scalable Spring Boot APIs**
+- Refactoring projects to **DTO-based architecture**
+- Implementing **pagination & performance-aware queries**
+- Preparing for **Java Backend Developer roles**
 
 ---
 
@@ -65,8 +100,8 @@ I enjoy designing clean APIs, following **SOLID principles**, and continuously i
 ## 🌱 Open to Collaboration
 
 I’m open to collaborating on:
-- Java & Spring Boot projects
-- Backend APIs
+- Java & Spring Boot backend projects
+- REST API development
 - Database-driven applications
 
 Let’s build something impactful 🚀
