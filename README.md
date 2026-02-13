@@ -10,10 +10,10 @@
 I am a **Java Backend Developer** specializing in **Spring Boot, JPA/Hibernate**, and **PostgreSQL**.  
 I focus on building **well-structured REST APIs** using **DTO-based layered architecture**, following **SOLID principles** and clean code practices.
 
-- ✅ Strong understanding of Spring Boot, JPA & Hibernate
+- ✅ Strong understanding of Spring Boot, JPA with Hibernate
 - ✅ Experienced in DTO, Mapper pattern, and clean API contracts
 - ✅ Hands-on with Pagination, Sorting, Filtering using Spring Data JPA
-- 🌱 Currently learning Microservices Architecture
+- 🌱 Currently have hands-on practice in Monolithic Architecture
 - 🛠️ Practicing System Design & Backend Architecture
 - 🎯 Interested in Backend Development & Data Engineering
   
@@ -61,12 +61,11 @@ I focus on building **well-structured REST APIs** using **DTO-based layered arch
 - Pagination with custom PageResponseDTO
 - Clean API responses using ResponseEntity
 - Global exception handling
-- Learning Microservices & API Design
+- Learning API Design
 - Improving DSA for Backend Interviews
 - Exploring System Design fundamentals
 
 ### 📚 Currently Learning
-- Microservices Architecture
 - API Design Best Practices
 - System Design fundamentals
 - DSA for backend interviews
